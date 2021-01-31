@@ -1,7 +1,7 @@
-# TrashNet || Waste classify using CNN  [![Build Status](https://travis-ci.org/vasantvohra/TrashNet.svg?branch=master)](https://travis-ci.org/vasantvohra/TrashNet/) 
+# TrashNet || Waste classify using CNN  [![Build Status](https://travis-ci.org/vasantvohra/TrashNet.svg?branch=master)](https://travis-ci.org/vasantvohra/TrashNet/)
 **Waste Segregation** Project to classify waste into different classes. <br>
 
-[![Already deployed version]()](https://trashnet.herokuapp.com)
+[![Already deployed version](https://www.heroku.com/)](https://trashnet.herokuapp.com)
 
 [DIRECT LINK](https://trashnet.herokuapp.com)
 
