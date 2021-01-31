@@ -3,7 +3,7 @@ gunicorn==19.9.0
 keras>=2.2.4
 numpy
 pillow
-pip install opencv-python
+opencv-python
 psycopg2-binary==2.7.7
 scipy==1.2.0
 tensorflow>=1.15.4
