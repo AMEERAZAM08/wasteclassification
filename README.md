@@ -1,12 +1,10 @@
-# TrashNet || Waste classify using CNN  [![Build Status](https://travis-ci.org/vasantvohra/TrashNet.svg?branch=master)](https://travis-ci.org/vasantvohra/TrashNet/)  [![Udacity - Intro To Tensorflow](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/ud.svg)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-
+# TrashNet || Waste classify using CNN  [![Build Status](https://travis-ci.org/vasantvohra/TrashNet.svg?branch=master)](https://travis-ci.org/vasantvohra/TrashNet/) 
 **Waste Segregation** Project to classify waste into different classes. <br>
 
 [![Already deployed version]()](https://trashnet.herokuapp.com)
 
 [DIRECT LINK](https://trashnet.herokuapp.com)
 
-[Kaggle Kernel]()
 Dataset: [Trashnet](https://github.com/garythung/trashnet)
 
 | Categories|        
@@ -20,15 +18,15 @@ Dataset: [Trashnet](https://github.com/garythung/trashnet)
 ### Just a Beginner!
 
 #### First attempt: Building Tensorflow keras CNN Model
-[Notebook](https://github.com/vasantvohra/TrashNet/blob/master/Notebooks/Trashnet%20CNN%2040%25.ipynb)
+[Notebook](https://github.com/AMEERAZAM08/wasteclassification/blob/master/Notebooks/Trashnet%20CNN%2040%25.ipynb)
 
 - Training on GrayScale images
-- Validation Accuracy 42%
+- Validation Accuracy 40%
 - Loss function : Sparse Categorical Loss function
 - Overfitting High
 
 ### Second attempt:
-[Notebook](https://github.com/vasantvohra/TrashNet/blob/master/Notebooks/Trashnet%20CNN%2080%25.ipynb)
+[Notebook](https://github.com/AMEERAZAM08/wasteclassification/blob/master/Notebooks/Trashnet%20CNN%2080%25.ipynb)
 
 - Image Augmentation
 - Training on Colored images
