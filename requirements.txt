@@ -7,4 +7,4 @@ pillow
 opencv-python
 psycopg2-binary==2.7.7
 tensorboard==1.14.0
-https://storage.googleapis.com/tensorflow/linux/cpu/tensorflow-1.0.0-cp27-none-linux_x86_64.whl
+pip3 install --upgrade https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.0.0-py3-none-any.whl
