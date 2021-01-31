@@ -6,5 +6,4 @@ pillow
 opencv-python
 psycopg2-binary==2.7.7
 tflearn>=0.3.2
-tensorflow==2.2.0
 tensorflow==2.0
