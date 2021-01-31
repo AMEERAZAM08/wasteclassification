@@ -5,4 +5,4 @@ numpy
 pillow
 opencv-python
 psycopg2-binary==2.7.7
-tensorflow==1.15
+tensorflow-gpu==1.15
