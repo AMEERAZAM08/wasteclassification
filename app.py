@@ -14,7 +14,6 @@ app=Flask(__name__)
 UPLOAD_FOLDER = os.path.basename('.')
 app.config['UPLOAD_FOLDER'] = UPLOAD_FOLDER
 
-
 @app.route("/", methods=['GET', 'POST'])
 def application():
     file=""
@@ -33,16 +32,16 @@ def application():
                 #read
                 #image = cv2.imread(UPLOAD_FOLDER+"/"+file.filename)
                 #filename = "{}.png".format(os.getpid())
-                
+
                 #cv2.imwrite(filename, image)
                 #print(filename)
-                
+
                 # Deleting from path after uploading
                 result=predict(file.filename)
                 #os.remove(filename)
                 if result=="":
                     error="Sorry!"
-                    
+
         except(SyntaxError) as e:
             error ="Could not understand"
             print("Error:" + str(e))
