@@ -3,7 +3,7 @@ gunicorn==19.9.0
 keras>=2.2.4
 numpy
 pillow
-opencv-python==3.4.2.17
+opencv-python>=4.5.1.48
 psycopg2-binary==2.7.7
 scipy==1.2.0
 tensorflow>=1.15.4
