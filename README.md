@@ -1,5 +1,4 @@
-# TrashNet [![Build Status](https://travis-ci.org/vasantvohra/TrashNet.svg?branch=master)](https://travis-ci.org/vasantvohra/TrashNet/)  [![Udacity - Intro To Tensorflow](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/ud.svg)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
-[![Linkedin Article]()]()
+# TrashNet || Waste classify using CNN  [![Build Status](https://travis-ci.org/vasantvohra/TrashNet.svg?branch=master)](https://travis-ci.org/vasantvohra/TrashNet/)  [![Udacity - Intro To Tensorflow](https://raw.githubusercontent.com/vasantvohra/TrashNet/master/ud.svg)](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 
 **Waste Segregation** Project to classify waste into different classes. <br>
 
